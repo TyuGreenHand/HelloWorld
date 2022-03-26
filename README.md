@@ -1,3 +1,3 @@
 # HelloWorld
 first program
-好好学习
+我要好好学习
